@@ -1,6 +1,6 @@
 # Data_365_sql
 
-##Data 365 SQL Project: Free-to-Paid Conversion Rate Analysis
+## Data 365 SQL Project: Free-to-Paid Conversion Rate Analysis
 
 Description:
 This project analyzes Data 365's dataset, focusing on student engagement and purchases. Key questions addressed include:
@@ -47,7 +47,7 @@ Interpretation: Identify potential areas for improvement in the user journey.
 Analyzed seasonal variations in registrations and purchases.
 Interpretation: Tailor marketing strategies based on seasonal trends.
 
-##Data 365 SQL Project: Student Streaks Analysis
+## Data 365 SQL Project: Student Streaks Analysis
 
 Description:
 This project analyzes streak data to identify top learners for feedback. Key question:
