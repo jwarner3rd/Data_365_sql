@@ -8,6 +8,7 @@ This project analyzes Data 365's dataset, focusing on student engagement and pur
 ### Conversion Rate Analysis:
 
 What is the free-to-paid conversion rate of students who watched a lecture on the 365 platform?
+
 Methodology:
 
 Utilized MySQL for data processing and analysis.
