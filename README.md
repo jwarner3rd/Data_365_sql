@@ -49,9 +49,9 @@ Charts:
 ### Additional Insights:
 
 - Explored general relationship between registration and purchase.
--    Interpretation: Identify potential areas for improvement in the user journey.
+    -    Interpretation: Identify potential areas for improvement in the user journey.
 - Analyzed seasonal variations in registrations and purchases.
--    Interpretation: Tailor marketing strategies based on seasonal trends.
+    -    Interpretation: Tailor marketing strategies based on seasonal trends.
 
 ## Data 365 SQL Project: Student Streaks Analysis
 
