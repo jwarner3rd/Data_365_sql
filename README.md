@@ -75,11 +75,11 @@ Charts:
 ### Additional Insights:
 
 - Explored relationships between streak length and freezes.
--    Interpretation: Relationship between streak length and use of freezes is exceptionally low.
+    -    Interpretation: Relationship between streak length and use of freezes is exceptionally low.
 - Analyzed user activity patterns by date and day of the week.
--    Interpretation: Recognized patterns of decreased use on weekends and during holidays.
+    -    Interpretation: Recognized patterns of decreased use on weekends and during holidays.
 - Investigated overall user activity, showing a dedicated user group.
--    Interpretation: Most users try the platform for a short period, but a dedicated group completes the streak.
+    -    Interpretation: Most users try the platform for a short period, but a dedicated group completes the streak.
 
 
 
