@@ -79,3 +79,7 @@ Analyzed user activity patterns by date and day of the week.
 Interpretation: Recognized patterns of decreased use on weekends and during holidays.
 Investigated overall user activity, showing a dedicated user group.
 Interpretation: Most users try the platform for a short period, but a dedicated group completes the streak.
+
+This text is underlined
+-----------------------
+
