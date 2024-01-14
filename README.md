@@ -5,7 +5,7 @@
 Description:
 This project analyzes Data 365's dataset, focusing on student engagement and purchases. Key questions addressed include:
 
-Conversion Rate Analysis:
+### Conversion Rate Analysis:
 
 What is the free-to-paid conversion rate of students who watched a lecture on the 365 platform?
 Methodology:
@@ -20,7 +20,7 @@ Conversion rate: 11.29%
 Charts:
 
 [Insert Conversion Rate Chart]
-Duration Analysis:
+### Duration Analysis:
 
 What is the average duration between registration and the first lecture?
 What is the average duration between the first lecture and the first subscription purchase?
@@ -40,7 +40,7 @@ Interpretation:
 Explore reasons for registration to understand low conversion.
 Investigate topics with higher conversion rates.
 Address outliers in engagement duration.
-Additional Insights:
+### Additional Insights:
 
 Explored general relationship between registration and purchase.
 Interpretation: Identify potential areas for improvement in the user journey.
@@ -64,7 +64,7 @@ Results:
 Charts:
 
 [Insert Streak Length Distribution Chart]
-Additional Insights:
+### Additional Insights:
 
 Explored relationships between streak length and freezes.
 Interpretation: Relationship between streak length and use of freezes is exceptionally low.
