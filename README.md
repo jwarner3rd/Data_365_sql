@@ -15,6 +15,7 @@ Utilized MySQL for data processing and analysis.
 Joined tables on student engagement and purchases.
 Calculated additional fields for dates and duration.
 Conducted subqueries to determine conversion rate.
+
 Results:
 
 Conversion rate: 11.29%
@@ -25,9 +26,11 @@ Charts:
 
 What is the average duration between registration and the first lecture?
 What is the average duration between the first lecture and the first subscription purchase?
+
 Methodology:
 
 Exported results to Python for further analysis and visualizations.
+
 Results:
 
 Average days between registration and first lecture: 3.42
@@ -41,6 +44,7 @@ Interpretation:
 Explore reasons for registration to understand low conversion.
 Investigate topics with higher conversion rates.
 Address outliers in engagement duration.
+
 ### Additional Insights:
 
 Explored general relationship between registration and purchase.
