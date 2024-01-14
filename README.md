@@ -9,14 +9,14 @@ This project analyzes Data 365's dataset, focusing on student engagement and pur
 
 What is the free-to-paid conversion rate of students who watched a lecture on the 365 platform?
 
-<u>Methodology:</u>
+**Methodology:**
 
 Utilized MySQL for data processing and analysis.
 Joined tables on student engagement and purchases.
 Calculated additional fields for dates and duration.
 Conducted subqueries to determine conversion rate.
 
-<u>Results:</u>
+**Results:**
 
 Conversion rate: 11.29%
 Charts:
@@ -27,11 +27,11 @@ Charts:
 What is the average duration between registration and the first lecture?
 What is the average duration between the first lecture and the first subscription purchase?
 
-<u>Methodology:</u>
+**Methodology:**
 
 Exported results to Python for further analysis and visualizations.
 
-<u>Results:</u>
+**Results:**
 
 Average days between registration and first lecture: 3.42
 Average days between engagement and purchase: 26.24
@@ -39,7 +39,8 @@ Charts:
 
 [Insert Registration to First Lecture Duration Chart]
 [Insert Engagement to Purchase Duration Chart]
-<u>Interpretation:</u>
+
+**Interpretation:**
 
 Explore reasons for registration to understand low conversion.
 Investigate topics with higher conversion rates.
@@ -59,13 +60,13 @@ This project analyzes streak data to identify top learners for feedback. Key que
 
 What users have the longest streaks?
 
-<u>Methodology:</u>
+**Methodology:**
 
 Processed streak data in MySQL.
 Calculated streak lengths, considering activity and freezes.
 Identified top users and exported results to Python.
 
-<u>Results:</u>
+**Results:**
 
 36 users with streaks of 30 for additional feedback.
 Charts:
@@ -80,6 +81,5 @@ Interpretation: Recognized patterns of decreased use on weekends and during holi
 Investigated overall user activity, showing a dedicated user group.
 Interpretation: Most users try the platform for a short period, but a dedicated group completes the streak.
 
-This text is underlined
------------------------
+
 
