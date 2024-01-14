@@ -58,11 +58,13 @@ Description:
 This project analyzes streak data to identify top learners for feedback. Key question:
 
 What users have the longest streaks?
+
 Methodology:
 
 Processed streak data in MySQL.
 Calculated streak lengths, considering activity and freezes.
 Identified top users and exported results to Python.
+
 Results:
 
 36 users with streaks of 30 for additional feedback.
