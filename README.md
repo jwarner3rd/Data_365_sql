@@ -20,7 +20,7 @@ What is the free-to-paid conversion rate of students who watched a lecture on th
 
 ![Conversion rate](image/conversion_rate_chart.png)
 
-Conversion rate: 11.29%
+Conversion rate: <b/>11.29%</b>
 
 ### Duration Analysis:
 
@@ -35,8 +35,8 @@ Exported results to Python for further analysis and visualizations.
 
 ![reg_engagement engagement_purchase](image/stripplot_subplots.png)
 
-- Average days between registration and first lecture: 3.42
-- Average days between engagement and purchase: 26.24
+- Average days between registration and first lecture: <b/>3.42</b>
+- Average days between engagement and purchase: <b/>26.24</b>
 
 **Interpretation:**
 
@@ -71,7 +71,7 @@ What users have the longest streaks?
 
 ![Max Streak Length](image/max_streak_length_histogram.png)
 
-36 users with streaks of 30 for additional feedback.
+<b/36 users</b> with streaks of 30 for additional feedback.
 
 
 
