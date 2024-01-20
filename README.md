@@ -69,17 +69,21 @@ What users have the longest streaks?
 
 **Results:**
 
+![Max Streak Length](image/max_streak_length_histogram.png)
 36 users with streaks of 30 for additional feedback.
-Charts:
 
-[Insert Streak Length Distribution Chart]
+
+
 ### Additional Insights:
 
 - Explored relationships between streak length and freezes.
+![Freezing correlation](image/correlation_heatmap.png)
     -    Interpretation: Relationship between streak length and use of freezes is exceptionally low.
 - Analyzed user activity patterns by date and day of the week.
+![date analysis](image/stacked_bar_chart.png)
     -    Interpretation: Recognized patterns of decreased use on weekends and during holidays.
 - Investigated overall user activity, showing a dedicated user group.
+![activity anaylsis](image/subplots_histograms.png)
     -    Interpretation: Most users try the platform for a short period, but a dedicated group completes the streak.
 
 
