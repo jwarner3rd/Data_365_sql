@@ -70,6 +70,7 @@ What users have the longest streaks?
 **Results:**
 
 ![Max Streak Length](image/max_streak_length_histogram.png)
+
 36 users with streaks of 30 for additional feedback.
 
 
