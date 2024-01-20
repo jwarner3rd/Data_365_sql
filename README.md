@@ -18,11 +18,10 @@ What is the free-to-paid conversion rate of students who watched a lecture on th
 
 **Results:**
 
-Conversion rate: 11.29%
-Charts:
-
 ![Conversion rate](image/conversion_rate_chart.png)
-[Insert Conversion Rate Chart]
+
+Conversion rate: 11.29%
+
 ### Duration Analysis:
 
 - What is the average duration between registration and the first lecture?
