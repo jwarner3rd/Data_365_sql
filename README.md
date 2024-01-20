@@ -47,7 +47,6 @@ Exported results to Python for further analysis and visualizations.
 ### Additional Insights:
 
 - Explored general relationship between registration and purchase.
-
 ![reg_purchase](image/reg_puchase.png)
     -    Interpretation: Identify potential areas for improvement in the user journey.
 
