@@ -35,8 +35,8 @@ Exported results to Python for further analysis and visualizations.
 
 ![reg_engagement engagement_purchase](image/stripplot_subplots.png)
 
-- Average days between registration and first lecture: <b/>3.42</b>
-- Average days between engagement and purchase: <b/>26.24</b>
+- Average number of days between registration and first lecture: <b/>3.42 Days</b>
+- Average number of days between engagement and purchase: <b/>26.24 days</b>
 
 **Interpretation:**
 
