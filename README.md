@@ -33,12 +33,10 @@ Exported results to Python for further analysis and visualizations.
 
 **Results:**
 
+![reg_engagement engagement_purchase](image/stripplot_subplots.png)
+
 - Average days between registration and first lecture: 3.42
 - Average days between engagement and purchase: 26.24
-Charts:
-
-[Insert Registration to First Lecture Duration Chart]
-[Insert Engagement to Purchase Duration Chart]
 
 **Interpretation:**
 
@@ -49,8 +47,11 @@ Charts:
 ### Additional Insights:
 
 - Explored general relationship between registration and purchase.
+
+![reg_purchase](image/reg_puchase.png)
     -    Interpretation: Identify potential areas for improvement in the user journey.
 - Analyzed seasonal variations in registrations and purchases.
+![change by month](image/grouped_bar_reg_purchase.png)
     -    Interpretation: Tailor marketing strategies based on seasonal trends.
 
 ## Data 365 SQL Project: Student Streaks Analysis
