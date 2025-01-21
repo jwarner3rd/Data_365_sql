@@ -87,5 +87,14 @@ What users have the longest streaks?
 ![activity anaylsis](image/subplots_histograms.png)
     -    Interpretation: Most users try the platform for a short period, but a dedicated group completes the streak.
 
+---
+## Contact
+For any questions or feedback, please contact:
+- **Name**: John Warner
+- **Email**: [john.warner.3rd@gmail.com](mailto:john.warner.3rd@gmail.com)
+- **GitHub**: [jwarner3rd](https://github.com/jwarner3rd)
+- **LinkedIn**: [www.linkedin.com/in/john-j-warner/](https://www.linkedin.com/in/john-j-warner/)
+
+
 
 
